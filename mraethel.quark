@@ -1,0 +1,10 @@
+(
+    \name: "mraethel",
+    \summary: "Collection of SynthDefs for Tidal.",
+    \author: "mraethel",
+    \copyright: "mraethel, 2023",
+    \license: "MIT",
+    \version: "0.0.1",
+    \dependencies: [ "SuperDirt" ],
+    \since: "2023"
+)
